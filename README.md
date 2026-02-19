@@ -1,7 +1,6 @@
 # Busan Attraction Explorer - Public API Integration
 
-> **Note:** This is a student project from my freshman year, archived to track my early development journey.
-> (본 레포지토리는 1학년 전공 과정 중 수행한 프로젝트를 기록용으로 보관한 것입니다.)
+> **Note:** This project was developed for the 'Introduction to Internet and Web' course at Pusan National University (Freshman 1st Semester, 2023).
 
 ## 📺 시연 영상 (Demo Video)
 [![Busan Attraction Demo](https://img.youtube.com/vi/8Acivp3nBUQ/0.jpg)](https://youtu.be/8Acivp3nBUQ)
